@@ -14,8 +14,8 @@
      <a href="https://gitpod.io/#">
         <img src="https://img.shields.io/badge/setup-automated-blue?logo=gitpod" alt="Gitpod">
     </a>
-     <a href="https://twitter.com/manazpr">
-        <img src="https://img.shields.io/twitter/follow/manazpr?style=social" alt="Kush sah Twitter">
+     <a href="https://twitter.com/Sahbhargav">
+        <img src="https://img.shields.io/twitter/follow/Kush?style=social" alt="Kush sah Twitter">
     </a>
 </div>
 <div align="center">
